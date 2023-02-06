@@ -1,0 +1,87 @@
+/* top banner section */
+.banner {
+    background-image: url(./images/banner/banner2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+    margin-bottom: 130px;
+  }
+  .ben-text {
+    text-align: right;
+    padding-top: 226px;
+    padding-right: 150px;
+  }
+  .ben-title {
+    weight: 700;
+    size: 65px;
+  }
+  .ben-description {
+    padding-left: 875px;
+    line-height: 26px;
+    color: #444343;
+  }
+  .ben-btn {
+    height: 44px;
+    background: #f15b22;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    padding: 0 20px;
+  }
+  /* failures sections */
+.fail-container {
+    display: flex;
+    align-items: center;
+    padding-left: 206px;
+    padding-right: 320px;
+    gap: 85px;
+    margin-bottom: 130px;
+  }
+  
+  /* plan section */
+  .plan-sec {
+    display: flex;
+    margin-left: 150px;
+    margin-right: 70px;
+    justify-content: space-around;
+    margin-bottom: 130px;
+  }
+  .pln-items {
+    width: 215px;
+    height: 200px;
+    justify-content: center;
+  }
+  .pln-description {
+    line-height: 26px;
+    color: #444343;
+  }
+  .pln-title{
+      text-align: center;
+      margin-bottom: 50px;
+  }
+  
+  /* possitive sec  */
+  
+  .positiove-sec{
+      margin: 0 150px;
+      background-image: url(./images/watch.png),url(./images/gradient2.png);
+      background-blend-mode: multiply;
+      background-repeat: no-repeat;
+      padding: 60px 60px;
+      border-radius: 8px;
+      border: none;
+      margin-bottom: 130px;
+  }
+  .pos-titel{
+      color:white;
+  }
+  .pos-btn{
+      height: 44px;
+      background: whitesmoke;
+      color:#f15b22;
+      border: none;
+      border-radius: 5px;
+      padding: 0 20px;
+  }
+  
